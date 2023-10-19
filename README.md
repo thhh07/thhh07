@@ -1,9 +1,6 @@
 ## Oiii eu sou o Arthur Rocha, desenvolvedor e cientista de dados!
 
-<div>
-  <a href="https://beacons.ai/thhh07">
-  
-</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="th-devcoin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" />
