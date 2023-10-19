@@ -1,4 +1,4 @@
-## Oiii eu sou o Arthur Rocha, desenvolvedor e cientista de dados!
+## Eu sou o Arthur Rocha, desenvolvedor e cientista de dados!
 
 <p align="center">Aqui está alguns dos meus dados no Github👻&nbsp;
 
