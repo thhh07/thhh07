@@ -1,6 +1,11 @@
 ## Oiii eu sou o Arthur Rocha, desenvolvedor e cientista de dados!
 
+<p align="center">Aqui está alguns dos meus dados no Github👻&nbsp;
 
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=thhh07&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+ </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="th-devcoin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" />
